@@ -1,0 +1,19 @@
+<ListBoxItems>
+  <Item>Data: 19.04.2023 00:00:00</Item>
+  <Item>ID pojazdu: 3</Item>
+  <Item>Marka: r</Item>
+  <Item>Model: Cooper</Item>
+  <Item>Numer rejestracyjny: SK423s</Item>
+  <Item>Numer VIN: 4eds432da3das</Item>
+  <Item>Rodzaj paliwa: petrol</Item>
+  <Item>Moc silnika: 13 KM</Item>
+  <Item>Pojemność silnika: 12 cm</Item>
+  <Item>Rok produkcji: 2315</Item>
+  <Item>Przebieg: 50000 km</Item>
+  <Item>Masa pojazdu: 1000 kg</Item>
+  <Item>Rodzaj motocyklu: d</Item>
+  <Item>Typ ramy: 3</Item>
+  <Item>Typ chłodzenia silnika: t</Item>
+  <Item>Typ napędu: s</Item>
+  <Item>------------------------------------</Item>
+</ListBoxItems>
